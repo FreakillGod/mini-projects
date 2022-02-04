@@ -27,7 +27,7 @@ function App() {
     <form onSubmit={formSubmit}>
       <h3>tired of pricking color</h3>
       <input type='text' value={color} onChange={(e)=>setColor(e.target.value)}
-       className={`${error?'error':null}`} placeholder='#324354'/>
+       className={`${error?'error':null}`} placeholder='#00099'/>
       <button type='submit' className='btn'>generate</button>
     </form>
     </section>
