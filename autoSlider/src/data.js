@@ -35,6 +35,15 @@ const people = [
     quote:
       'Marfa af yr 3 wolf moon kogi, readymade distillery asymmetrical seitan kale chips fingerstache cloud bread mustache twee messenger bag. ',
   },
+  {
+    id: 5,
+    image:
+      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
+    name: 'vikash patel',
+    title: 'The boss',
+    quote:
+      'Marfa af this is the best thing lol 3 wolf moon kogi, readymade distillery asymmetrical seitan kale chips fingerstache cloud bread mustache twee messenger bag. ',
+  },
 ];
 
 export default people;
