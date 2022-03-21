@@ -1,3 +1,9 @@
+### React Color Generator app
+
+finding the best shed for a website without making the color out of context is preety hard 
+the React color Generator will print all the shades of the provided color 
+
+
 #### Values JS
 
 [values.js](https://github.com/noeldelgado/values.js)
